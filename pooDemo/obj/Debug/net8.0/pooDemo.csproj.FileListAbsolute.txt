@@ -1,0 +1,15 @@
+/home/luisito/Developer/desarrollo .net/pooDemo/pooDemo/bin/Debug/net8.0/pooDemo
+/home/luisito/Developer/desarrollo .net/pooDemo/pooDemo/bin/Debug/net8.0/pooDemo.deps.json
+/home/luisito/Developer/desarrollo .net/pooDemo/pooDemo/bin/Debug/net8.0/pooDemo.runtimeconfig.json
+/home/luisito/Developer/desarrollo .net/pooDemo/pooDemo/bin/Debug/net8.0/pooDemo.dll
+/home/luisito/Developer/desarrollo .net/pooDemo/pooDemo/bin/Debug/net8.0/pooDemo.pdb
+/home/luisito/Developer/desarrollo .net/pooDemo/pooDemo/obj/Debug/net8.0/pooDemo.GeneratedMSBuildEditorConfig.editorconfig
+/home/luisito/Developer/desarrollo .net/pooDemo/pooDemo/obj/Debug/net8.0/pooDemo.AssemblyInfoInputs.cache
+/home/luisito/Developer/desarrollo .net/pooDemo/pooDemo/obj/Debug/net8.0/pooDemo.AssemblyInfo.cs
+/home/luisito/Developer/desarrollo .net/pooDemo/pooDemo/obj/Debug/net8.0/pooDemo.csproj.CoreCompileInputs.cache
+/home/luisito/Developer/desarrollo .net/pooDemo/pooDemo/obj/Debug/net8.0/pooDemo.sourcelink.json
+/home/luisito/Developer/desarrollo .net/pooDemo/pooDemo/obj/Debug/net8.0/pooDemo.dll
+/home/luisito/Developer/desarrollo .net/pooDemo/pooDemo/obj/Debug/net8.0/refint/pooDemo.dll
+/home/luisito/Developer/desarrollo .net/pooDemo/pooDemo/obj/Debug/net8.0/pooDemo.pdb
+/home/luisito/Developer/desarrollo .net/pooDemo/pooDemo/obj/Debug/net8.0/pooDemo.genruntimeconfig.cache
+/home/luisito/Developer/desarrollo .net/pooDemo/pooDemo/obj/Debug/net8.0/ref/pooDemo.dll
